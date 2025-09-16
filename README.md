@@ -45,6 +45,24 @@ npx expo install expo-camera expo-media-library
 🎬 Demo Video
 ![Demo GIF](assets/location.gif)
 
+## Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="./assets/screenshot/IMG_4715.PNG" width="150"/><br>
+    </td>
+    <td>
+      <img src="./assets/screenshot/IMG_4716.PNG" width="150"/><br>
+    </td>
+    <td>
+      <img src="./assets/screenshot/IMG_4717.PNG" width="150"/><br>
+    </td>
+    <td>
+      <img src="./assets/screenshot/IMG_4718.PNG" width="150"/><br>
+    </td>
+  </tr>
+</table>
+
 ### เรียกใช้แอป
 
 1.  **เริ่ม Expo development server:**
