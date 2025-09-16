@@ -42,7 +42,7 @@ npx create-expo-app@latest camera-app --template blank-typescript
 cd camera-app
 npx expo install expo-camera expo-media-library
 ```
-🎬 Demo Video
+## 📸 คลิปการใช้งาน
 ![Demo GIF](assets/location.gif)
 
 ## Screenshots
@@ -81,7 +81,7 @@ npx expo start
 
     ตรวจสอบให้แน่ใจว่าอุปกรณ์/emulator ของคุณได้เปิดใช้งานบริการระบุตำแหน่งแล้ว.
 
-## 📸 คลิปการใช้งาน
+
 
 ## 🛠️ สร้างด้วย
 
